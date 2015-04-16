@@ -343,8 +343,4 @@ cl_forcepreload 1 // Force preloading
 // ----------------------------------------------------------------------------
 // Print to console
 // ----------------------------------------------------------------------------
-echo "-------------------------------------------------------"
-echo "            Chris' maxframes config loaded.            "
-echo "-------------------------------------------------------"
-echo "Please direct all comments/queries/whatnot to"
-echo "#christf2 on QuakeNet."
+echo "AUTOEXEC SUCCESSFULLY LOADED!!"
